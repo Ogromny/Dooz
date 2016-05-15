@@ -5,8 +5,7 @@
 #### Background_mode = true:
 ![IMG](https://i.imgur.com/hcdHPV1.png)
 #### Background_mode = false;
-![IMG](https://i.imgur.com/UbMNiM6.png)
-
+![IMG](https://i.imgur.com/Zi5eqx2.png)
 ## Utilisation
 ```d
 import dooz;

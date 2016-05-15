@@ -2,9 +2,9 @@
 > A simple colored logger for D, with 2 modes !
 
 ## Screenshot
-Background_mode = true:
+#### Background_mode = true:
 ![IMG](https://i.imgur.com/hcdHPV1.png)
-Background_mode = false;
+#### Background_mode = false;
 ![IMG](https://i.imgur.com/UbMNiM6.png)
 
 ## Utilisation
